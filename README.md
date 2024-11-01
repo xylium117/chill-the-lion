@@ -8,3 +8,5 @@ The lion is feeling kinda hot lately. Cool him down por flavor...
 <video loop autoplay>
   <source src="preview.mp4" type="video/mp4">
 </video>
+
+![alt text](preview.gif).
