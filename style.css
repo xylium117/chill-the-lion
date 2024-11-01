@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
 
 body{
-    margin: 0; height: 100%; overflow: hidden
+    margin: 0; 
+    height: 100%; 
+    overflow: hidden;
 }
+
 #world {
     background: #ebe5e7;
     position:absolute;
