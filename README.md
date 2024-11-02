@@ -8,4 +8,3 @@ The lion is feeling kinda hot lately. Cool him down por flavor...
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![THREE.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
 
-![omg animated preview](preview.gif).
